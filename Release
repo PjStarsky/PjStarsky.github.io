@@ -1,0 +1,9 @@
+Origin: PjStarsky's Repo
+Label: PjStarsky's Repo
+Suite: stable
+Version: 1.0
+Codename: PjStarsky
+Architectures: iphoneos-arm
+Componets: main
+Description: PjStarsky's Repo
+MD5Sum:
